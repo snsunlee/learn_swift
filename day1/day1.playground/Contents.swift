@@ -64,3 +64,5 @@ print(doubleNum)
 let a = 1
 let b = 0.2
 let c = a+Int(b)
+
+let a+=0.2
